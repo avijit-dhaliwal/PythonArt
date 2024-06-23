@@ -4,7 +4,7 @@ import numpy as np
 pygame.init()
 width, height = 800, 800
 screen = pygame.display.set_mode((width, height))
-pygame.display.set_caption("Enhanced Particle Life Simulation")
+pygame.display.set_caption("Particle Life Simulation")
 
 '''
 Description: This simulation models a system of particles with different types, each interacting uniquely with other types. 
