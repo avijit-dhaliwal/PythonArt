@@ -103,6 +103,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Created by Avi Dhaliwal - [Your GitHub Profile](https://github.com/avijit-dhaliwal)
+Created by Avi Dhaliwal - [GitHub Profile](https://github.com/avijit-dhaliwal)
 
 Contact avijit.dhaliwal@gmail.com.
